@@ -1,0 +1,4 @@
+﻿  Account.cpp
+c:\users\wolfz\documents\visual studio 2017\projects\bankproject\bankproject\account.cpp(26): warning C4715: 'Account::login': not all control paths return a value
+c:\users\wolfz\documents\visual studio 2017\projects\bankproject\bankproject\account.cpp(59): warning C4715: 'Account::actions': not all control paths return a value
+  BankProject.vcxproj -> C:\Users\Wolfz\Documents\Visual Studio 2017\Projects\BankProject\Debug\BankProject.exe
